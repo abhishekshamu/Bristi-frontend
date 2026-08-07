@@ -1,0 +1,1 @@
+import{j as o}from"./animation-BRAY3_LW.js";import{c as r}from"./index-enO0V4Jy.js";function a({className:s,...e}){return o.jsx("div",{className:r("animate-pulse rounded-sm bg-secondary",s),...e})}export{a as S};
